@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B3DE973119EA7609003595D6"
-               BuildableName = "syntax_research"
-               BlueprintName = "syntax_research"
-               ReferencedContainer = "container:syntax_research.xcodeproj">
+               BlueprintIdentifier = "B3DE974419EC4E11003595D6"
+               BuildableName = "Homework"
+               BlueprintName = "Homework"
+               ReferencedContainer = "container:Homework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B3DE973119EA7609003595D6"
-            BuildableName = "syntax_research"
-            BlueprintName = "syntax_research"
-            ReferencedContainer = "container:syntax_research.xcodeproj">
+            BlueprintIdentifier = "B3DE974419EC4E11003595D6"
+            BuildableName = "Homework"
+            BlueprintName = "Homework"
+            ReferencedContainer = "container:Homework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B3DE973119EA7609003595D6"
-            BuildableName = "syntax_research"
-            BlueprintName = "syntax_research"
-            ReferencedContainer = "container:syntax_research.xcodeproj">
+            BlueprintIdentifier = "B3DE974419EC4E11003595D6"
+            BuildableName = "Homework"
+            BlueprintName = "Homework"
+            ReferencedContainer = "container:Homework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B3DE973119EA7609003595D6"
-            BuildableName = "syntax_research"
-            BlueprintName = "syntax_research"
-            ReferencedContainer = "container:syntax_research.xcodeproj">
+            BlueprintIdentifier = "B3DE974419EC4E11003595D6"
+            BuildableName = "Homework"
+            BlueprintName = "Homework"
+            ReferencedContainer = "container:Homework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

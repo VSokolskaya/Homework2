@@ -1,15 +1,15 @@
-//
-//  main.c
-//  syntax_research
-//
-//  Created by User Dev on 10/12/14.
-//  Copyright (c) 2014 User Dev. All rights reserved.
-//
+#include<stdio.h>
 
-#include <stdio.h>
+void test(int z);
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main()
+{
+    test(87);
     return 0;
+}
+
+void test(int z)
+{
+    int a = 50, b = 80;
+    printf("\nvalues : a = %d and b + z = %d\n", a, b+z);
 }
